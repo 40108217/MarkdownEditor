@@ -1,4 +1,7 @@
-# Markdown Editor
+# Control_Tower_AFT
+
+Workshop : https://catalog.workshops.aws/control-tower/en-US/customization/aft/workflow
+
 
 [![Build status](https://ci.appveyor.com/api/projects/status/m07cnunnni8w82o5?svg=true)](https://ci.appveyor.com/project/madskristensen/markdowneditor)
 
@@ -7,8 +10,7 @@ or get the [CI build](http://vsixgallery.com/extension/9ca64947-e9ca-4543-bfb8-6
 
 ---------------------------------------
 
-A full featured Markdown editor with live preview and syntax highlighting.
-Supports GitHub flavored Markdown.
+Setu AWS Control Tower AFT Terraform automation for account vending and cutomization
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
